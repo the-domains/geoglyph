@@ -1,0 +1,28 @@
+name: Geoglyph
+favicon: null
+layout_spectrum: 0.535594183485955
+typography_spectrum: 0.7510943196248263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18057864904403687
+  lightness: 0.9289955252315849
+  saturation: 0.659965398022905
+  rhythmicContrast: 0.29625127697363496
+purpose: []
